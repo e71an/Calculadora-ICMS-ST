@@ -1,1 +1,2 @@
-# Calculadora-ICMS-ST
+# Calculadora ICMS-ST
+Esta calculadora, desenvolvida com biblioteca python Streamlit, automatiza o cálculo do ICMS por substituição tributária para produtos do NCM 3005. Com ela, você pode rapidamente determinar o valor do imposto a ser pago, considerando o valor do produto, descontos, frete e o estado de destino. Basta inserir os dados e a calculadora proporcionará resultados precisos e confiáveis. 
